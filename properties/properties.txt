@@ -1,0 +1,14 @@
+botversion: X (Unsupported Selfhost Version)
+patcherversion: 1.2.2
+rebooterversion: 1.2.0
+token: yourTokenHere
+prefix: bt-
+creators: 171725491093372928
+logchannel: 386235876625088522
+errorlogchannel: 386633253014208515
+propertyVersion: 1.0.2
+loggerVersion: 2.0.2
+rss_interval_1: 5
+rss_interval_2: 15
+rss_interval_3: 20
+rss_interval_4: 25
