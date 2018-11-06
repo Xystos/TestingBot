@@ -1,7 +1,7 @@
 botversion: X (Unsupported Selfhost Version)
 patcherversion: 1.2.2
 rebooterversion: 1.2.0
-token: yourTokenHere
+token: NTA4ODQ5NDg1MTQ5ODk2NzA2.DsFjmQ.S-SkHZaBgcBT1Hc5cVKxoht1VEA
 prefix: bt-
 creators: 171725491093372928
 logchannel: 386235876625088522
